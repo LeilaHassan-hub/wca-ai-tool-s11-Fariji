@@ -326,6 +326,7 @@ The tool should:
 * Protect the API key.
 * Avoid collecting unnecessary personal information.
 * Make it clear that the AI recommendation does not replace the client's final decision.
+The final housing decision remains with the client. Fariji provides information-based assistance and should not be treated as a replacement for the client's own judgement.
 
 ## Testing
 
