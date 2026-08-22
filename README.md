@@ -278,6 +278,7 @@ Responsibilities:
 These requirements follow the course project specification, which requires a working Python tool, two connected API requests, R-T-C-C-O prompts, JSON handling, saved output, error handling, and secure API-key storage.
 
 ## How to Run
+The following explains how to install, configure, and run Fariji Housing
 
 ### 1. Install Python
 
