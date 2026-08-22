@@ -315,7 +315,7 @@ I need a 2 bedroom house in Kasarani with a budget of 40000.
 The assistant analyses the request and provides a recommendation.
 
 ## Ethics and Responsible AI
-
+The assistant provides recommendations to support the client's decision and does not make the final housing decision for the client.
 Fariji Housing should provide recommendations responsibly.
 
 The tool should:
