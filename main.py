@@ -1,3 +1,4 @@
+# Fariji Housing Assistant - Python and OpenAI API implementation
 import os
 import json
 from openai import OpenAI
@@ -47,6 +48,7 @@ PROPERTIES = [
 ]
 
 # ---------------- STAGE 1 ----------------
+#Analyse the client's housing requirements using the first AI call.
 def analyse_request(user_input):
     prompt = f"""
 ROLE:
@@ -86,7 +88,8 @@ Return ONLY valid JSON with exactly these fields:
     return json.loads(response.output_text)
 
 
-# ---------------- STAGE 2 ----------------
+# ---------------- STAGE 2 ---------------- 
+#Use the Stage 1 analysis to produce a suitable property recommendation.
 def recommend_property(analysis):
     prompt = f"""
 ROLE:
