@@ -96,7 +96,7 @@ It then:
 The second API call therefore uses the result of the first API call.
 
 ## AI Instruction Design — R-T-C-C-O
-
+The R-T-C-C-O framework helps keep both AI prompts clear, structured, and consistent. It defines the AI's role, task, context, constraints, and expected output.
 The R-T-C-C-O structure is used consistently across both AI stages. Stage 1 uses the framework to analyse the client's requirements, while Stage 2 uses it to produce a property recommendation based on the analysed requirements and the available knowledge base.
 
 Both AI prompts follow the **R-T-C-C-O framework**.
