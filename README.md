@@ -329,7 +329,7 @@ The tool should:
 The final housing decision remains with the client. Fariji provides information-based assistance and should not be treated as a replacement for the client's own judgement.
 
 ## Testing
-
+These tests help confirm that the assistant handles normal requests, incomplete input, different budgets, and common errors correctly.
 The group will test:
 
 1. A normal housing request.
