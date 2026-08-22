@@ -1,4 +1,5 @@
 # Fariji Housing Assistant - Python and OpenAI API implementation
+# API credentials are loaded securely from the environment.
 import os
 import json
 from openai import OpenAI
